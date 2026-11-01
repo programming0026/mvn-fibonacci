@@ -21,6 +21,7 @@ public class FibonacciGraphics extends JPanel {
     /** Con {@code long} el término 92 es el último que no desborda. */
     private static final int MAX_TERMS = 92;
 
+	/** Lista donde se guarda la serie. */
     private final List<Long> fibonacciSeries;
 
     /**
