@@ -14,7 +14,7 @@ import javax.swing.JPanel;
  * Panel Swing que genera la serie de Fibonacci y la dibuja como un gráfico de barras
  * cuya altura es proporcional a cada término.
  *
- * @author linux
+ * @author Java Universe
  */
 public class FibonacciGraphics extends JPanel {
 

@@ -3,7 +3,7 @@ package com.juniverse.fibonacci;
 /**
  * Abre una ventana con el gráfico de barras de los primeros 30 números de Fibonacci.
  *
- * @author linux
+ * @author Java Universe
  */
 public class Main {
 
